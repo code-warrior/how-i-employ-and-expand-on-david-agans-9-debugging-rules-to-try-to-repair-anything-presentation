@@ -8,11 +8,7 @@ This repo contains the macOS-centric, Node/Gulp-based scaffold I use to build a 
 npm i
 ```
 
-## 2. Install Deckset Theme (macOS)
-
-Double-click `deckset-theme/Simple (Roy Vanegas).dstheme` file to install the theme into Deckset
-
-## 3. Build the Deck and Watch for Changes
+## 2. Build the Deck and Watch for Changes
 
 ```bash
 gulp
