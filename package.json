@@ -1,0 +1,15 @@
+{
+  "name": "how-i-employ-and-expand-on-david-agans-9-debugging-rules-to-try-to-repair-anything-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["repurposeful", "ancestry", "lab", "repair", "cafe", "new york city", "dave", "agans", "debugging", "rules"],
+  "author": "Roy Vanegas",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.1"
+  }
+}
