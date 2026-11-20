@@ -12,6 +12,7 @@ filenames_of_slides=(
   05--rule--understand-the-system.md
   06--rule--make-it-fail.md
   07--rule--quit-thinking-and-look.md
+  08--rule--divide-and-conquer.md
 )
 
 cat_command="cat "
