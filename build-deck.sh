@@ -7,6 +7,7 @@ filenames_of_slides=(
   00--deckset-configuration-commands.md
   01--title.md
   02--introduction.md
+  03--topics.md
 )
 
 cat_command="cat "
