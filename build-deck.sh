@@ -15,6 +15,7 @@ filenames_of_slides=(
   08--rule--divide-and-conquer.md
   09--rule--change-one-thing-at-a-time.md
   10--rule--keep-an-audit-trail.md
+  11--rule--check-the-plug.md
 )
 
 cat_command="cat "
