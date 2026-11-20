@@ -14,6 +14,7 @@ filenames_of_slides=(
   07--rule--quit-thinking-and-look.md
   08--rule--divide-and-conquer.md
   09--rule--change-one-thing-at-a-time.md
+  10--rule--keep-an-audit-trail.md
 )
 
 cat_command="cat "
