@@ -3,6 +3,7 @@
 > Remove the changes that didn’t do what you expected. They probably did something you didn’t expect
 
 * If you change something, and it doesn’t fix it, change it back
+* Simple rule: Change, test, reverse
 
 ^
 — Imagine trying to find the cause behind something that doesn’t turn on
