@@ -13,6 +13,7 @@ filenames_of_slides=(
   06--rule--make-it-fail.md
   07--rule--quit-thinking-and-look.md
   08--rule--divide-and-conquer.md
+  09--rule--change-one-thing-at-a-time.md
 )
 
 cat_command="cat "
