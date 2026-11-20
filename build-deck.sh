@@ -18,6 +18,7 @@ filenames_of_slides=(
   11--rule--check-the-plug.md
   12--rule--get-a-fresh-view.md
   13--rule--if-you-didnt-fix-it-it-aint-fixed.md
+  14--roy-rule-1--work-cleanly-and-neatly.md
 )
 
 cat_command="cat "
