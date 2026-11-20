@@ -9,6 +9,7 @@ filenames_of_slides=(
   02--introduction.md
   03--topics.md
   04--who-am-i.md
+  05--rule--understand-the-system.md
 )
 
 cat_command="cat "
