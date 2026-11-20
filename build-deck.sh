@@ -23,6 +23,7 @@ filenames_of_slides=(
   16--roy-rule-3--leave-a-note-behind.md
   17--summary.md
   18--resources.md
+  19--acknowledgments.md
 )
 
 cat_command="cat "
