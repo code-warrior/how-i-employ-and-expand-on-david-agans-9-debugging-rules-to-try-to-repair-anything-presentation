@@ -6,5 +6,8 @@
 * Recap
 * Resources/Links
 
+^
+— Following these rules will save time and headaches
+
 ---
 
