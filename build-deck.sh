@@ -8,6 +8,7 @@ filenames_of_slides=(
   01--title.md
   02--introduction.md
   03--topics.md
+  04--who-am-i.md
 )
 
 cat_command="cat "
