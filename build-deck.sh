@@ -20,6 +20,7 @@ filenames_of_slides=(
   13--rule--if-you-didnt-fix-it-it-aint-fixed.md
   14--roy-rule-1--work-cleanly-and-neatly.md
   15--roy-rule-2--use-the-right-tool.md
+  16--roy-rule-3--leave-a-note-behind.md
 )
 
 cat_command="cat "
