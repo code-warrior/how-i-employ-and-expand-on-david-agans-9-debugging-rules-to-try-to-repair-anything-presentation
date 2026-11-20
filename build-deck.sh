@@ -5,6 +5,7 @@ target_file=how-i-employ-and-expand-on-david-agans-9-debugging-rules-to-try-to-r
 
 filenames_of_slides=(
   00-deckset-configuration-commands.md
+  01-title.md
 )
 
 cat_command="cat "
