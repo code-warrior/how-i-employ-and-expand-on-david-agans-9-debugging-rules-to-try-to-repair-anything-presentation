@@ -16,6 +16,7 @@ filenames_of_slides=(
   09--rule--change-one-thing-at-a-time.md
   10--rule--keep-an-audit-trail.md
   11--rule--check-the-plug.md
+  12--rule--get-a-fresh-view.md
 )
 
 cat_command="cat "
