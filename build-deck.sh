@@ -21,6 +21,7 @@ filenames_of_slides=(
   14--roy-rule-1--work-cleanly-and-neatly.md
   15--roy-rule-2--use-the-right-tool.md
   16--roy-rule-3--leave-a-note-behind.md
+  17--summary.md
 )
 
 cat_command="cat "
