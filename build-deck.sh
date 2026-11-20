@@ -4,8 +4,8 @@ folder_containing_source_files_for_slides=markdown-slides
 target_file=how-i-employ-and-expand-on-david-agans-9-debugging-rules-to-try-to-repair-anything.md
 
 filenames_of_slides=(
-  00-deckset-configuration-commands.md
-  01-title.md
+  00--deckset-configuration-commands.md
+  01--title.md
 )
 
 cat_command="cat "
