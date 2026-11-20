@@ -17,6 +17,7 @@ filenames_of_slides=(
   10--rule--keep-an-audit-trail.md
   11--rule--check-the-plug.md
   12--rule--get-a-fresh-view.md
+  13--rule--if-you-didnt-fix-it-it-aint-fixed.md
 )
 
 cat_command="cat "
