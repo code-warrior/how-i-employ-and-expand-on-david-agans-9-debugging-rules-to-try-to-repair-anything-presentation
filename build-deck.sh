@@ -19,6 +19,7 @@ filenames_of_slides=(
   12--rule--get-a-fresh-view.md
   13--rule--if-you-didnt-fix-it-it-aint-fixed.md
   14--roy-rule-1--work-cleanly-and-neatly.md
+  15--roy-rule-2--use-the-right-tool.md
 )
 
 cat_command="cat "
