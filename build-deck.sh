@@ -11,6 +11,7 @@ filenames_of_slides=(
   04--who-am-i.md
   05--rule--understand-the-system.md
   06--rule--make-it-fail.md
+  07--rule--quit-thinking-and-look.md
 )
 
 cat_command="cat "
