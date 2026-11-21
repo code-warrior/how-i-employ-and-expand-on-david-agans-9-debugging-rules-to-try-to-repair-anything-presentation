@@ -1,7 +1,5 @@
 ## Summary
 
-To recap…
-
 1. Understand the system (read the manual)
 2. Make it fail (look, focus, verify)
 3. Quit thinking and look (start looking once you’ve thought hard)
