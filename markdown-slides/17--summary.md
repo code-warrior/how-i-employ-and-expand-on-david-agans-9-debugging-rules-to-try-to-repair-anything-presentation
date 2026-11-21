@@ -10,7 +10,7 @@
 8. Get a fresh view (get help)
 9. If you didn’t fix it, it ain’t fixed (open/close is not a fix)
 10. Work cleanly and neatly (organizationess is awesomeness)
-11. Use the right tool (if the tool don’t fit…)
+11. Use the right tool (if the tool don’t fit, don’t force it)
 12. Leave a note (“I was here, and this is what I did”)
 
 ---
