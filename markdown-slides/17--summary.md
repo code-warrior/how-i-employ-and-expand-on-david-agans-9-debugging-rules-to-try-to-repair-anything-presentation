@@ -12,6 +12,7 @@
 10. Work cleanly and neatly (organizationess is awesomeness)
 11. Use the right tool (if the tool don’t fit, don’t force it)
 12. Leave a note (“I was here, and this is what I did”)
+13. Leave it better than you found it (in: good; return: better)
 
 ---
 
