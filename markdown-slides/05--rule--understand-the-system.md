@@ -2,12 +2,6 @@
 
 > You need a working knowledge of what the system is supposed to do, how it’s designed, and, in some cases, why it was designed that way
 
----
-
-## 01 — Understand the System
-
-> You need a working knowledge of what the system is supposed to do, how it’s designed, and, in some cases, why it was designed that way
-
 * In other words, RTM, or read the manual
 * The crude version being RTFM
 * Agans goes on to say, “If you don’t understand some part of the system, that always seems to be where the problem is”
