@@ -22,6 +22,7 @@ filenames_of_slides=(
   15--roy-rule-2--use-the-right-tool.md
   16--roy-rule-3--leave-a-note-behind.md
   17--roy-rule-4--leave-it-better-than-you-found-it.md
+  time-for-some-images.md
   17--summary.md
   18--resources.md
   19--acknowledgments.md
