@@ -8,6 +8,3 @@
 
 ---
 
-^
-Show picture of ITS mess
-
