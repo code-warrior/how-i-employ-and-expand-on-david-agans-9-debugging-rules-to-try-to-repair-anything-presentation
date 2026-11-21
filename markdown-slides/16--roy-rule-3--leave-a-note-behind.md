@@ -1,4 +1,4 @@
-## Leave a Note Behind (Roy Rule X)
+## Leave a Note Behind (Roy Rule 3)
 
 > Write documentation for future you, or someone else
 
