@@ -6,8 +6,7 @@ I’ve been wanting to give this talk for some time. So, thank you…
 * David Agans (Your book rocks! 🤘🏽🤘🏽)
 * Brooklyn Library (Reading rocks! 🤘🏽🤘🏽🤘🏽)
 * Rocks (Rocks rock! 🪨🪨)
-
-Now, let’s do a quick exercise!
+* Now, let’s do a quick exercise!
 
 ^
 — Let’s reorder the rules
